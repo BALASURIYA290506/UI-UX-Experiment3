@@ -12,7 +12,7 @@ To Heuristic Evaluation of an Existing Website or App
 ```
 ## Output:
 
-[UI.UX.EXPERIMENT.3 (1) (2).pdf](https://github.com/user-attachments/files/23762322/UI.UX.EXPERIMENT.3.1.2.pdf)
+[UI.UX.EXPERIMENT.3.pdf](https://github.com/user-attachments/files/23762322/UI.UX.EXPERIMENT.3.1.2.pdf)
 
 
 ##Result:
